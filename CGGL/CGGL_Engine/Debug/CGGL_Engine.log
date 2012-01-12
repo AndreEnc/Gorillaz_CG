@@ -1,0 +1,36 @@
+﻿Build started 1/12/2012 11:58:02 AM.
+     1>Project "C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\CGGL_Engine.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CGGL_Engine.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         CGGL_Engine.vcxproj -> C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\\Dependencies\lib\CGGL_Engine.lib
+       PostBuildEvent:
+         Description: Copy solution header files to the dependencies directory at solution level
+         xcopy /Y "C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\*.h" "C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\dependencies\include\cggl\"
+         :VCEnd
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\App.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\Camera.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\FPSCounter.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\glm.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\Globals.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\GLTexture.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\Input.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\MathUtils.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\Model3DS.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\Object.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\ObjModel.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\SkyBox.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\TextureLoader.h
+         C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\src\TextWriter.h
+         14 File(s) copied
+       FinalizeBuildStatus:
+         Deleting file "Debug\CGGL_Engine.unsuccessfulbuild".
+         Touching "Debug\CGGL_Engine.lastbuildstate".
+     1>Done Building Project "C:\Users\Andre\Documents\Coding\CG\CG-1112i-LI31DN-LI51DN\OpenGL\Demos\CGGL\CGGL_Engine\CGGL_Engine.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
